@@ -1,4 +1,4 @@
-## Automação de testes funcionais: "User Interface", também conhecidos como testes:
+## Automação de testes funcionais "User Interface", também conhecidos como testes:
 ![image](https://user-images.githubusercontent.com/56303911/235586631-f79e314d-34af-4d12-93e4-05e918c2843f.png)
 
 #### :arrow_forward: [Click aqui para assistir o projeto em execução](https://www.loom.com/share/00cea995b136492baeea2ac8a55b4651), ou:
