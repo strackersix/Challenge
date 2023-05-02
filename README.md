@@ -1,4 +1,8 @@
-# Instruções para execução do projeto
+## Automação de testes funcionais de: "User Interface", também conhecidos como testes:
+![image](https://user-images.githubusercontent.com/56303911/235586631-f79e314d-34af-4d12-93e4-05e918c2843f.png)
+
+#### :arrow_forward: [Click aqui para assistir o projeto em execução](https://www.loom.com/share/00cea995b136492baeea2ac8a55b4651), ou:
+
 ### 1- Baixe e instale os seguintes programas: 
  * [Java JDK 11](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
  * [IntelliJ Community Edition](https://www.jetbrains.com/idea/download/#section=windows)
@@ -17,7 +21,7 @@
 ### 6- Após execução dos testes execute o seguinte comando para geração do Allure Report: mvn allure:serve 
 ![image](https://user-images.githubusercontent.com/56303911/235580177-a558f219-6d6f-45f5-b413-029130572637.png)
 
-## Allure Report gerado no navegador padrão do sistema operacional: 
+### Allure Report gerado no navegador padrão do sistema operacional: 
 ![image](https://user-images.githubusercontent.com/56303911/235580397-51bb22e1-a2bc-47f3-96de-a23357bde234.png)
 
 ![image](https://user-images.githubusercontent.com/56303911/235580651-90761bb7-fc31-44f8-97b6-36d900932ad1.png)
@@ -28,6 +32,9 @@
 #### Caso o projeto apresente erro de divergência entre a versão do navegador "Google Chrome", e o "chromedriver.exe", será necessário igualar as versões.
 [Download chromedriver.exe](https://chromedriver.chromium.org/downloads)
 ![image](https://user-images.githubusercontent.com/56303911/235582840-9af0a7bf-ba76-42c4-93fd-13889dfa9400.png)
+
+
+
 
 
 
