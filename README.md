@@ -1,7 +1,7 @@
 ## Automação de testes funcionais "end2end", também conhecidos como testes:
 ![image](https://user-images.githubusercontent.com/56303911/235588285-93e04e90-4f1d-4cb3-a206-62c73f180b46.png)
 
-#### :arrow_forward: [Click aqui para assistir o projeto em execução](https://www.loom.com/share/00cea995b136492baeea2ac8a55b4651), ou:
+#### :arrow_forward: [Click aqui](https://www.loom.com/share/00cea995b136492baeea2ac8a55b4651) para assistir o projeto em execução, ou:
 
 ### 1- Baixe e instale os seguintes programas: 
  * [Java JDK 11](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
