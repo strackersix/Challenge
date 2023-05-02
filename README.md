@@ -9,10 +9,10 @@
  
 ### 2- Configure as variáveis de ambiente JAVA_HOME e MAVEN_HOME conforme print abaixo: 
 ![variáveis de ambiente](https://user-images.githubusercontent.com/56303911/235577937-ed95d2a3-6ab3-41d6-8dfb-c0b42cca0d68.png)
-### 3- Selecione a branch Master e clone o projeto via execução do comando: "git clone git@github.com:strackersix/Challenge.git" dentro do terminal do windows ou git bash, ou clique no botão download.
+### 3- Selecione a branch Master, abra um terminal de preferência apontado para o diretório padrão do IntelliJ "IdeaProject", clone o projeto via execução do comando: "git clone git@github.com:strackersix/Challenge.git", ou clique no botão download.
 ![image](https://user-images.githubusercontent.com/56303911/235578916-b72cb7de-ee9b-41fd-86a6-6bb3b1d79d44.png)
 
-### 4- Cole o projeto baixado dentro da pasta padrão do IntelliJ: "IdeaProject" e importe o mesmo:
+### 4- Importe o projeto no IntelliJ:
 ![image](https://user-images.githubusercontent.com/56303911/235579308-b38233c2-b885-4650-b27a-db652a498ba5.png)
 
 ### 5- Após importação abra o terminal desejado dentro do diretório do projeto e execute o seguinte comando para execução dos testes: mvn clean -Dtest=TestLupa test 
