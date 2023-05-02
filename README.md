@@ -18,7 +18,7 @@
 ### 5- Após importação abra o terminal desejado dentro do diretório do projeto e execute o seguinte comando para execução dos testes: mvn clean -Dtest=TestLupa test 
 ![image](https://user-images.githubusercontent.com/56303911/235579915-fcd88ea9-661c-4a02-953f-7afcb16b0eda.png)
 
-### 6- Após execução dos testes execute o seguinte comando para geração do Allure Report: mvn allure:serve 
+### 6- Para geração do Allure Report execute: mvn allure:serve 
 ![image](https://user-images.githubusercontent.com/56303911/235580177-a558f219-6d6f-45f5-b413-029130572637.png)
 
 ### Allure Report gerado no navegador padrão do sistema operacional: 
